@@ -1,15 +1,15 @@
-#Oyunu Çalıştırmak İçin
+# Oyunu Çalıştırmak İçin
 
 - Code File dosyasını aç
 - Game.exe dosyasını çalıştır.
 
 
-#Kodları Görüntülemek ve Derlemek için 
+# Kodları Görüntülemek ve Derlemek için 
 
 - Code File dosyasına git 
 - dev uzantılı dosyayı çalıştır.
 
-###Sonra
+### Sonra
 dosya > proje veya dosya aç  dedikten sonra
 bu klasöre gelip 
 "sonra_bunu_ac.cpp"isimli dosyayı seçiyoruz.
