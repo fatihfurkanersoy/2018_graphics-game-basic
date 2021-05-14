@@ -9,10 +9,9 @@
 - Code File dosyasına git 
 - dev uzantılı dosyayı çalıştır.
 
-### Sonra
-dosya > proje veya dosya aç  dedikten sonra
-bu klasöre gelip 
-"sonra_bunu_ac.cpp"isimli dosyayı seçiyoruz.
+## Sonra
+- dosya > proje veya dosya aç  dedikten sonra
+- bu klasöre gelip "sonra_bunu_ac.cpp"isimli dosyayı seçiyoruz.
 
 
 
