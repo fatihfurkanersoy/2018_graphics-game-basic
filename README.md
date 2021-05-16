@@ -1,18 +1,24 @@
-#Oyunu Çalıştırmak İçin
+# Oyunu Çalıştırmak İçin
 
 - Projelerden birini seç ve code File dosyasını aç
 - xxxx.exe dosyasını çalıştır.
 
 
-#Kodları Görüntülemek ve Derlemek için 
+# Kodları Görüntülemek ve Derlemek için 
 
 - Code File dosyasına git 
 - dev uzantılı dosyayı çalıştır.
 
+<<<<<<< HEAD
 ###Sonra
 dosya > proje veya dosya aç  dedikten sonra
 bu klasöre gelip 
 "xxxxxxxxxxxxx.cpp"isimli dosyayı seçiyoruz.
+=======
+## Sonra
+- dosya > proje veya dosya aç  dedikten sonra
+- bu klasöre gelip "sonra_bunu_ac.cpp"isimli dosyayı seçiyoruz.
+>>>>>>> 017839bea86ef7f675fc072bb4b5db63886a354e
 
 
 
