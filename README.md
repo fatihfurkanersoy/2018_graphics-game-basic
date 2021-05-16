@@ -1,7 +1,7 @@
 #Oyunu Çalıştırmak İçin
 
-- Code File dosyasını aç
-- Game.exe dosyasını çalıştır.
+- Projelerden birini seç ve code File dosyasını aç
+- xxxx.exe dosyasını çalıştır.
 
 
 #Kodları Görüntülemek ve Derlemek için 
@@ -12,7 +12,7 @@
 ###Sonra
 dosya > proje veya dosya aç  dedikten sonra
 bu klasöre gelip 
-"sonra_bunu_ac.cpp"isimli dosyayı seçiyoruz.
+"xxxxxxxxxxxxx.cpp"isimli dosyayı seçiyoruz.
 
 
 

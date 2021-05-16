@@ -1,0 +1,19 @@
+KODU ÇALIŞTIRMAK İÇİN KOD DOSYALARINA TIKLAYIN VE KLASÖRÜ AÇIN DAHA SONRA
+
+1)game_sus_havuzu.exe İsimli exe'yi çalıştırdığınız zaman
+kodun çalışıyor şekilde olması lazım
+
+Eğer çalışmıyorsa şu adımları izleyin
+
+2) "sus_havuzu.dev "
+DOSYASINI ÇALIŞTIRIN.
+
+3)eğer kodlar önümüze gelmezsse 
+sol üst kısımdan 
+dosya > proje veya dosya aç  dedikten sonra
+bu klasöre gelip 
+"sus_havuzu.cpp"isimli dosyayı seçiyoruz.
+
+
+KODUMUZUN DÜZGÜN ÇALIŞMASI İÇİN 
+GRAFİK KÜTÜPHANESİNİ DOĞRU KURMUŞ VE DEV C ++ ' A CONSOLU EKLEMİŞ OLMAMIZ LAZIM.
